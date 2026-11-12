@@ -1,0 +1,6 @@
+FICTIONAL DEMO RESUME — created for TalentRAG, separate from source dataset
+Arun Rao | Data Analyst
+Summary: Analyst translating operational questions into reproducible reports.
+Skills: SQL, Excel, Tableau, Python
+Project: Used SQL to combine fictional customer orders and refunds, checked missing keys, and built a Tableau dashboard for weekly support reviews.
+Experience: Wrote Python scripts to validate CSV imports and documented assumptions. Maintained Excel reconciliation sheets with a finance partner.

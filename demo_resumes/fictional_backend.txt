@@ -1,0 +1,6 @@
+FICTIONAL DEMO RESUME — created for TalentRAG, separate from source dataset
+Mira Sen | Backend Developer
+Summary: Backend developer building Python services for small operations teams.
+Skills: Python, SQL, Flask, Docker, Git, Unit Testing
+Project: Built a Flask inventory API in Python with SQL queries for stock reconciliation. Added unit tests for duplicate orders and documented deployment steps.
+Experience: Packaged the service with Docker and used Git pull requests to review database migration changes with two teammates.

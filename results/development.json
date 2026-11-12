@@ -1,0 +1,30 @@
+{
+  "timestamp_utc": "2026-11-12T07:20:24.037340+00:00",
+  "sample_job_ids": [
+    "J_002320",
+    "J_001866",
+    "J_000903",
+    "J_002241",
+    "J_001286",
+    "J_000057",
+    "J_001682",
+    "J_000803",
+    "J_000813",
+    "J_000904",
+    "J_000333",
+    "J_001838",
+    "J_002401",
+    "J_001445",
+    "J_002030",
+    "J_001872",
+    "J_000787",
+    "J_001531",
+    "J_000486",
+    "J_002472"
+  ],
+  "seed": 42,
+  "candidate_count": 10000,
+  "overlap_definition": "Count of top five IDs also in source-listed positives (0..5)",
+  "recall_definition": "Listed-positive overlap / number of distinct source positives for that job",
+  "labels": "Synthetic/incomplete source positives; unlisted pairs are unlabeled. Development sample, not held-out accuracy."
+}
